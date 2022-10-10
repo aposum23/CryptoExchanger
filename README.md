@@ -7,6 +7,7 @@ It is web application for exchanging one crypto currency to another. It works wi
   <li>Bootstrap5</li>
   <li>MetaMask API</li>
 </ul>
+
 ## My contacs:
 <ul>
   <li>Telegram: <a href="https://web.telegram.org">@MishaDuhno</a></li>
