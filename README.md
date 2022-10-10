@@ -1,5 +1,5 @@
 # CryptoExchanger
-It is web application for exchanging one crypto currency to another. It works with metamask. I did a simple interface wich friendly for new crypto users. Main reasone of it is unusual for the common user UX design. When I tryed to exchange my crypto to another, I was ready to damage something. Goal of my project is be simple and functional. To make this application I used:
+It is web application for exchanging one crypto currency to another. It works with metamask. I did a simple interface wich friendly for new crypto users. Main reasone of it is unusual for the common users UX design. When I tryed to exchange my crypto to another, I was ready to damage something. Goal of my project is be simple and functional. To make this application I used:
 <ul>
   <li>Vue.js</li>
   <li>HTML5</li>
