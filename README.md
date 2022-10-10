@@ -1,5 +1,12 @@
 # CryptoExchanger
-It is web application for exchanging one crypto currency to another. It works with metamask. I did a simple interface wich friendly for new crypto users. When I tryed to exchange my crypto to another, I was ready to damage something. Goal of my project is be simple and functional.
+It is web application for exchanging one crypto currency to another. It works with metamask. I did a simple interface wich friendly for new crypto users. When I tryed to exchange my crypto to another, I was ready to damage something. Goal of my project is be simple and functional. To make this application I used:
+<ul>
+  <li>Vue.js</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Bootstrap5</li>
+  <li>MetaMask API</li>
+</ul>
 ## My contacs:
 <ul>
   <li>Telegram: <a href="https://web.telegram.org">@MishaDuhno</a></li>
